@@ -1,4 +1,4 @@
-#Boundary-based Image Forgery Detection by Fast Shallow CNN
+# Boundary-based Image Forgery Detection by Fast Shallow CNN
 
 https://arxiv.org/abs/1801.06732
 

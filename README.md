@@ -10,4 +10,6 @@ The idea was to extract 32x32 patches with a stride of 10 from the tampered imag
 
 To do this, first I had implemented shallow CNN as described in the paper. Later I implemented CapsuleNet for the same problem.
 CapsuleNet: https://arxiv.org/abs/1710.09829
+
+
 https://towardsdatascience.com/capsule-networks-the-new-deep-learning-network-bd917e6818e8
